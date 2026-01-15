@@ -2,7 +2,7 @@
 
 **NeoLixOS** is a fast, lightweight, and flexible operating system designed for everyday use.
 
-## Built on **Arch Linux**
+## Built on Arch Linux
 
 NeoLixOS is planned to be based on Arch Linux, bringing a modern rolling-release foundationwith up-to-date software and a modern system design.
 
