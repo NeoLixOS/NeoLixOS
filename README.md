@@ -9,7 +9,7 @@ NeoLixOS is planned to be based on Arch Linux, bringing a modern rolling-release
 The goal is to combine Arch’s power and simplicity with a more guided and approachable experience.
 
 --------------------------
-NeoLixOS currently offers four desktop environment editions:
+**NeoLixOS** currently offers four desktop environment editions:
 
 - ![Neodymium Logo](logos/Images/NeoBuilds/Neodymium.png) **Neodymium (GNOME)** – GNOME based edition. Clean, modern, and focused. Designed for a smooth and productive daily experience.
 
