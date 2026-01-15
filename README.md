@@ -16,7 +16,6 @@ NeoLixOS currently offers four desktop environment editions:
   
 - ![Neolytum Logo](logos/Images/NeoBuilds/Neolytum.png) **Neolytum (XFCE)** – XFCE based edition. Fast, lightweight, and efficient. Ideal for performance focused users and low-end systems.
 
-  ------------------------------
 
  All editions share the same Arch-based core. Choose the desktop that fits for you.
  
