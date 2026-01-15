@@ -20,7 +20,7 @@ NeoLixOS currently offers four desktop environment editions:
  All editions share the same Arch-based core. Choose the desktop that fits for you.
  
 
- These system builds are currently in development and not yet available.
+ ## These system builds are currently in development and not yet available.
 
  -----------------------------
 
