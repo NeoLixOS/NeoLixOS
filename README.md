@@ -62,4 +62,30 @@ Use at your own risk.
 ## 7. Changes to Terms
 
 NeoLixOS may update these Terms and Conditions. By continuing to use the software, you accept any changes.
+ 
+ -----------------------------
+ 
+# NeoLixOS Privacy Policy
+
+Your privacy is important to the developer of NeoLixOS. This policy explains what information is collected and how it is used.
+
+## 1. Information Collection
+
+- NeoLixOS **does not collect any personal data**.  
+- Downloading ISOs or accessing the website does **not require registration or personal information**.
+
+## 2. Third-Party Services
+
+- NeoLixOS may link to external services (e.g., GitHub, Netlify) for downloads or contributions.  
+- The privacy policies of these services apply when you use them.
+
+## 3. Your Rights
+
+- Since no personal data is collected, there is nothing stored that you need to request deletion for.  
+
+## 4. Changes to this Policy
+
+- This Privacy Policy may be updated over time.  
+- Continued use of NeoLixOS or the website implies acceptance of any updates.
+
 
