@@ -1,0 +1,85 @@
+ .u-section-1 {
+  background-position: 0px 0px, 50% 50%;
+  background-repeat: repeat, no-repeat;
+  background-image: url('images/Balksz285_20260115235424.png'), linear-gradient(to bottom, rgba(229, 229, 229, 1), rgba(229, 229, 229, 1));
+  background-size: auto, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1438px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 361px;
+  height: 481px;
+  margin: 163px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Barlow-Black;
+  font-size: 2.25rem;
+  margin: -43px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Barlow-Black;
+  font-size: 1.25rem;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  --radius: 10px;
+  font-family: Barlow-Black;
+  --color-var: #1a1b1f;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1186px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 908px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 681px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.1111111111111112rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 401px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 453px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -15px;
+  }
+}@font-face {
+  font-family: 'Barlow-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Barlow-Black.ttf);
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'Barlow-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Barlow-Black.ttf);
+}

@@ -1,0 +1,320 @@
+ .u-section-1 {
+  filter: none;
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  background-image: url("images/Balksz285_20260115235424.png");
+  background-size: auto;
+  min-height: 1733px;
+}
+
+.u-section-1 .u-image-1 {
+  --radius: 30px;
+  width: 500px;
+  height: 281px;
+  --border-color-var: #000000;
+  margin: 125px auto 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Barlow-Black;
+  font-size: 2.25rem;
+  margin: -270px calc(((100% - 1140px) / 2)  + 57px) 0 calc(((100% - 1140px) / 2)  + 594px);
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Barlow-Black;
+  margin: 20px calc(((100% - 1140px) / 2)  + 57px) 0 calc(((100% - 1140px) / 2)  + 594px);
+}
+
+.u-section-1 .u-image-2 {
+  --radius: 30px;
+  width: 533px;
+  height: 300px;
+  margin: 234px calc(((100% - 1140px) / 2)) 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Barlow-Black;
+  font-size: 2.25rem;
+  margin: -260px calc(((100% - 1140px) / 2)  + 627px) 0 calc(((100% - 1140px) / 2)  + 200px);
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-decoration: underline !important;
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: Barlow-Black;
+  margin: 21px calc(((100% - 1140px) / 2)  + 627px) 0 calc(((100% - 1140px) / 2)  + 24px);
+}
+
+.u-section-1 .u-text-5 {
+  font-family: Barlow-Black;
+  width: 558px;
+  margin: 108px auto 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: Barlow-Black;
+  width: 558px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 10px;
+  font-size: 0.9375rem;
+  background-image: none;
+  font-weight: 700;
+  font-family: Barlow-Black;
+  margin: 37px auto 0;
+  padding: 8px 33px;
+}
+
+.u-section-1 .u-image-3 {
+  --radius: 30px;
+  width: 702px;
+  height: 395px;
+  margin: 37px auto 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1889px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 45px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 741px;
+    margin-top: 27px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 407px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 63px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 458px;
+    margin-right: calc(((100% - 940px) / 2)  + 427px);
+    margin-left: calc(((100% - 940px) / 2)  + -45px);
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 489px;
+    margin-top: -392px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-top: 33px;
+    margin-right: 245px;
+    margin-left: 237px;
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-right: 237px;
+    margin-left: 245px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-bottom: -437px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1890px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 28px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 84px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 410px;
+    margin-right: calc(((100% - 720px) / 2)  + 207px);
+    margin-left: calc(((100% - 720px) / 2)  + -45px);
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -366px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 56px;
+    margin-right: 135px;
+    margin-left: 127px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 127px;
+    margin-left: 135px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-bottom: -486px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1740px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 149px;
+    margin-left: calc(((100% - 540px) / 2)  + 304px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2)  + 281px);
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 164px;
+    margin-right: calc(((100% - 540px) / 2)  + 7px);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -346px;
+    margin-right: calc(((100% - 540px) / 2)  + 51px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 54px;
+    margin-left: 46px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 46px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 540px;
+    height: 304px;
+    margin-bottom: -408px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1829px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 191px;
+    margin-top: 50px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: 282px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 191px;
+    margin-top: 129px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+    width: 340px;
+    margin-top: -241px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 340px;
+    margin-top: 660px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 2.25rem;
+    margin-top: -352px;
+    margin-left: 17px;
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: -358px;
+    margin-left: 17px;
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 481px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 191px;
+    margin-top: 17px;
+    margin-bottom: 60px;
+  }
+}@font-face {
+  font-family: 'Barlow-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Barlow-Black.ttf);
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'Barlow-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Barlow-Black.ttf);
+}
